@@ -2,6 +2,7 @@ name: Github Pages workshop
 markdown: kramdown
 
 # permalink: /blog/:year/:month/:day/:title
+baseurl: /introGHP
 
 sass:
   style: :compressed
